@@ -1,0 +1,6 @@
+name: Pets
+version: 1.0
+main: main.Pets
+depend: [NPCLib, Vault]
+commands:
+    Pet:
